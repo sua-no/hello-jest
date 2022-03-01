@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@types/jest": "^27.4.0",
+    "jest": "^27.5.1"
+  },
+  "name": "hello-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  }
+}
